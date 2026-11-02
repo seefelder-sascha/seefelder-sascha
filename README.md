@@ -20,7 +20,7 @@ Ich verbinde fundierte Erfahrung aus der hardwarenahen Softwareentwicklung (Linu
 
 ## 🚀 Projekte
 
-### [WGT-Predictor]()
+### [WGT-Predictor](https://github.com/seefelder-sascha/WGT_Predictor)
 * **Beschreibung:** Machine-Learning-Modell und automatisierte Python-Scraping-Pipeline zur Vorhersage von Festival-Lineups basierend auf historischen Daten von 1992 bis 2026. Vollständig containerisiert mit Docker.
 * **Tech Stack:** Python, Web Scraping, Machine Learning, Docker
 
@@ -32,10 +32,10 @@ Ich verbinde fundierte Erfahrung aus der hardwarenahen Softwareentwicklung (Linu
 
 ## 📑 Veröffentlichte Arbeiten & Case Studies
 
-### [Seminararbeit: Kann KI die deutsche Clubszene retten?]() 
+### [Seminararbeit: Kann KI die deutsche Clubszene retten?](https://github.com/seefelder-sascha/club-culture-ai-study) 
   *Untersuchung des Potenzials datengestützter Analysen und KI-gestützter Ansätze zur Bewältigung struktureller Herausforderungen in der Veranstaltungskultur.*  
 
-### [Use Case Analyse: Datenbasierte Optimierung von ÖPNV-Netzstrukturen]() 
+### [Use Case Analyse: Datenbasierte Optimierung von ÖPNV-Netzstrukturen](https://github.com/seefelder-sascha/public-transit-case-study) 
   *Praxisorientierte Fallstudie zur Analyse und Optimierung von Nahverkehrsnetzen mittels datengetriebener Modellierung.*  
 
 ---
