@@ -34,9 +34,11 @@ Ich verbinde fundierte Erfahrung aus der hardwarenahen Softwareentwicklung (Linu
 
 ### [Seminararbeit: Kann KI die deutsche Clubszene retten?](https://github.com/seefelder-sascha/club-culture-ai-study) 
   *Untersuchung des Potenzials datengestützter Analysen und KI-gestützter Ansätze zur Bewältigung struktureller Herausforderungen in der Veranstaltungskultur.*  
+  📑 [Hier direkt lesen](https://github.com/seefelder-sascha/club-culture-ai-study/blob/main/Data%20Science%20und%20Gesellschaft%20-%20Kann%20K%C3%BCnstliche%20Intelligenz%20die%20deutsche%20Clubszene%20retten.pdf)
 
 ### [Use Case Analyse: Datenbasierte Optimierung von ÖPNV-Netzstrukturen](https://github.com/seefelder-sascha/public-transit-case-study) 
   *Praxisorientierte Fallstudie zur Analyse und Optimierung von Nahverkehrsnetzen mittels datengetriebener Modellierung.*  
+  📑 [Hier direkt lesen](https://github.com/seefelder-sascha/public-transit-case-study/blob/main/Use%20Case%20Analyse%20%C3%96PNV.pdf)
 
 ---
 
